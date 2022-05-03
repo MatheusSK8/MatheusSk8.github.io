@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornflowerblue;
+    min-width: 320px;
+    
+    
+  
+}
+.Canva{
+display: flex;
+justify-content: space-between;
+list-style: none;
+padding: 1%;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 22px;
+}
+
+ul a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+
+
+
+.socialmid{
+display: flex; 
+justify-content: flex-end;   
+font-size: 15pt;
+background-color: rgb(0, 0, 0);
+
+
+
+}
+.img{
+margin: auto;
+display: block;
+height: 250px;
+border-radius: 50%;
+
+
+
+}
+.eu{
+    text-align: center;
+    font-size: 55px;
+    margin: 2%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.eu2{
+    color: rgb(66, 39, 128);
+}
+
+
+section p{
+font-family: 'Roboto', sans-serif;
+text-align: center;
+padding: 0%;
+margin: 9%;
+font-size: 20px;
+
+}
+.cursos{
+    color: rgb(7, 200, 248);
+    font-size: 40px;
+    padding: 0%;
+}
+footer a {
+max-width: 100%;
+margin : 20px;
+
+
+}
+footer{
+    
+    display: flex;
+    justify-content: center;
+    
+ 
+    
+   
+}

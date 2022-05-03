@@ -1,0 +1,57 @@
+
+body{
+    background-color: rgb(66, 39, 128);
+    min-width: 360px;
+   
+    margin: auto;
+}
+.navegador{
+display: flex;
+justify-content: space-between;
+list-style: none;
+padding: 1%;
+font-size: 22px;
+font-family: 'Josefin Sans', sans-serif;
+}
+.navegador a{
+    text-decoration: none;
+    color: white;
+}
+
+
+img{
+    width: 500px;
+}
+.conteudo p{
+ 
+ font-family: 'Josefin Sans', sans-serif;
+ color: white;
+ font-size: 22px;
+ margin: 6%;
+
+}
+
+.conteudo{
+    background-color: rgb(68, 73, 139);
+    display: flex;
+    align-items: center;
+    padding: 1%;
+    margin: auto;
+}
+.conteudo2{
+    background-color: rgb(94, 100, 185);
+    display: flex;
+    align-items: center;
+    padding: 1%;
+    margin: auto;
+}
+
+
+.conteudo2 p{
+ 
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 22px;
+     margin: 6%; 
+    }
+    
